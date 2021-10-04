@@ -7,7 +7,7 @@
 My name is Akash Tiwari, And I am Full-stack Developer with main focus on the Front-End part.
 My Website: https://akashtiwari750156.netlify.app/
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![React](https://img.shields.io/badge/-React-yellow?style=square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -15,4 +15,4 @@ My Website: https://akashtiwari750156.netlify.app/
 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=square&logo=tailwindcss&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-<!-- [![MaterialUI](https://img.shields.io/badge/-material-red?style=square&logo=material&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/) -->
+[![MaterialUI](https://img.shields.io/badge/-materialui-red?style=square&logo=materialui&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
