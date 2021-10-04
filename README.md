@@ -1,6 +1,6 @@
 # 🌏 Hello World! 🇮🇳
 
-My name is Akash Tiwari, And I am Full-stack Developer with main focus on the Front-End part.
+My name is Akash Tiwari 🖥️ , And I am Full-stack Developer with main focus on the Front-End part.
 
 My Website: https://akashtiwari750156.netlify.app/
 
