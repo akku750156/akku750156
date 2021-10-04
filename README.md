@@ -15,4 +15,4 @@ My Website: https://akashtiwari750156.netlify.app/
 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=square&logo=tailwindcss&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MaterialUI](https://img.shields.io/badge/-materialui-red?style=square&logo=materialui&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MaterialUI](https://img.shields.io/badge/-materialUI-red?style=square&logo=materialui&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
