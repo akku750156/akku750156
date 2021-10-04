@@ -1,4 +1,4 @@
-# 🌏 Hello World! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+# 🌏 Hello World! 🇮🇳
 
 My name is Akash Tiwari, And I am Full-stack Developer with main focus on the Front-End part.
 
