@@ -8,6 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akku750156)](https://github.com/akku750156/github-readme-stats)
 
 My name is Akash Tiwari, And I am Full-stack Developer with main focus on the Front-End part.
+
 My Website: https://akashtiwari750156.netlify.app/
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
