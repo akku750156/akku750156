@@ -1,4 +1,4 @@
-# Hii, I am Akash Tiwari <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+# 🌏 Hello World! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-tiwari-03b3621b7/)](https://www.linkedin.com/in/akash-tiwari-03b3621b7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:akashtiwari750156@gmail.com)](mailto:akashtiwari750156@gmail.com)
