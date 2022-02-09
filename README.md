@@ -24,8 +24,8 @@ My Website: https://akashtiwari750156.netlify.app/
 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=square&logo=firebase&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-red?style=square&logo=nodejs&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Express](https://img.shields.io/badge/-Express-orange?style=square&logo=express&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Express](https://img.shields.io/badge/-Express-blue?style=square&logo=express&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Vercel](https://img.shields.io/badge/-Vercel-green?style=square&logo=vercel&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
