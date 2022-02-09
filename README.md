@@ -23,9 +23,9 @@ My Website: https://akashtiwari750156.netlify.app/
 [![MaterialUI](https://img.shields.io/badge/-materialUI-red?style=square&logo=materialui&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=square&logo=firebase&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![NodeJS](https://img.shields.io/badge/-nodejs-red?style=square&logo=nodejs&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-<!-- [![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/) -->
+[![NodeJS](https://img.shields.io/badge/-NodeJS-red?style=square&logo=nodejs&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![Netlify](https://img.shields.io/badge/-Netlify-orange?style=square&logo=netlify&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Vercel](https://img.shields.io/badge/-Vercel-green?style=square&logo=vercel&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
