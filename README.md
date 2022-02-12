@@ -2,7 +2,7 @@
 
 My name is Akash Tiwari 🖥️ , And I am Full-stack Web Developer with main focus on the Front-End part.
 
-My Website: https://akashtiwari750156.netlify.app/
+My Website: https://akashtiwari-portfolio.netlify.app/
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-tiwari-03b3621b7/)](https://www.linkedin.com/in/akash-tiwari-03b3621b7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:akashtiwari750156@gmail.com)](mailto:akashtiwari750156@gmail.com)
