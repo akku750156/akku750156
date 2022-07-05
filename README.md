@@ -18,8 +18,6 @@ My Website: https://akashtiwari-portfolio.netlify.app/
 
 <hr/>
 
-<a href="#"><img alt="mukulrajpoot262610's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=akku750156&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 ## Programmming Languages
 
 [![HTML5](https://img.shields.io/badge/-HTML5-blue?style=square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
